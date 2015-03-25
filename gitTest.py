@@ -1,1 +1,1 @@
-"Hello World"
+print("EVERYTHING IS AWESOME!")
